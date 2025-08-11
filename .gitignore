@@ -1,0 +1,13 @@
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+
+# 忽略文件夹
+models/
+myenv/
